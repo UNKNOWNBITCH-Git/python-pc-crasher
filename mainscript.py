@@ -166,4 +166,5 @@ for _ in range(0, Threads):
     threading.Thread(target=Attack).start()
 
 
-# Pc crasher made by Monster (;
+
+# Pc crasher made by Monster (; (unknownbitch)
